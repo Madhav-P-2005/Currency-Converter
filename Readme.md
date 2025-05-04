@@ -7,7 +7,7 @@ It provides a smooth, modern UI and uses essential React Native components like 
 
 ## 📱 Preview
 
-![Currency Converter App Preview](ConverterApp/Currency Converter Preview.gif)
+![Currency Converter App Preview](ConverterApp/Currency-Converter-Preview.gif)
 
 ---
 
